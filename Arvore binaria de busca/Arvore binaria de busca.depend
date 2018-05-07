@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1525707380 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\arvore binaria de busca\arv_busca.c
+	<stdio.h>
+	<stdlib.h>
+	"arv_busca.h"
+
+1525707338 c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\arvore binaria de busca\arv_busca.h
+
+1525707266 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\arvore binaria de busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arv_busca.h"
+
