@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1525099048 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\nova pasta\abb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"abb.h"
+
+1525098931 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\nova pasta\abb\abb.c
+	<stdio.h>
+	<stdlib.h>
+	"abb.h"
+
+1525098900 c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\nova pasta\abb\abb.h
+
+1525704303 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\Árvores\arvore binária de busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"abb.h"
+
+1525704329 c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\Árvores\arvore binária de busca\abb.h
+
+1525704269 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\Árvores\arvore binária de busca\abb.c
+	<stdio.h>
+	<stdlib.h>
+	"abb.h"
+
+1525295067 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\Árvores\arvore binária de busca\nodos_nivel.c
+	<stdio.h>
+	<stdlib.h>
+	"abb.h"
+
