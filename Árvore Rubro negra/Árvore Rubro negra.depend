@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1526348072 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\Árvore rubro negra\arvorerb.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreRB.h"
+
+1526308057 c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\Árvore rubro negra\arvorerb.h
+
+1526348072 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\Árvore rubro negra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreRB.h"
+
