@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1528385879 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\exercícios\2º avaliação\heap_tree\heap_tree\heap.c
+	<stdio.h>
+	<stdlib.h>
+	"heap.h"
+
+1529006571 c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\exercícios\2º avaliação\heap_tree\heap_tree\heap.h
+
+1528385741 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\exercícios\2º avaliação\heap_tree\heap_tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"heap.h"
+
