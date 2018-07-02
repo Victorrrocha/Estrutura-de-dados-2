@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1529693790 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\grafos\bfs\main.cpp
+	<iostream>
+	<queue>
+	<list>
+	<limits.h>
+
